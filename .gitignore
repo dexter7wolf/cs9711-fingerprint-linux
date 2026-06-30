@@ -1,0 +1,3 @@
+# nothing to build here; the installer clones/builds upstream into /opt
+build/
+*.log

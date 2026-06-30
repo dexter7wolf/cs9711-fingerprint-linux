@@ -126,13 +126,13 @@ the upstream libfprint fork is LGPL-2.1+.)
 
 Maintained by **Andrea Armeni**.
 
-I run **LocalBOOM** — digital marketing for **local businesses**: local SEO,
-Google Business Profile optimization, websites, and content that helps shops,
-restaurants and service providers get found by nearby customers and turn searches
-into walk-ins and bookings.
+I run **[Local BOOM!](https://localboom.it)** — *more customers from your
+neighborhood, powered by your Google reviews.* It's a packaged **Local SEO + AI**
+service for **local businesses** (shops, restaurants, service providers): Google
+Business Profile optimization, review strategy, local content and websites — so
+nearby customers find you and searches turn into walk-ins and bookings.
 
-<!-- TODO: add your real links, e.g. -->
-<!-- Website: https://your-domain.example  ·  Contact: andrea.armeni@gmail.com -->>
+🌐 **https://localboom.it** · ✉️ andrea.armeni@gmail.com
 
 If this saved you an afternoon of fighting with `libfprint`, a ⭐ on the repo is
 appreciated. Found a bug or got it working on another distro? Open an issue or PR.
